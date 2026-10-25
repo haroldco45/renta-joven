@@ -1,0 +1,21 @@
+name: Traer fotos
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  fotos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          mkdir -p fotos
+          curl -sSL -A "Mozilla/5.0" -o fotos/estudiantes.jpg "https://estaticos.elcolombiano.com/binrepository/768x476/-39c0/846d476/none/11101/WOHN/pestudianteseafit-1_51879540_20261014133800.jpg"
+          curl -sSL -A "Mozilla/5.0" -o fotos/inician-pagos.jpg "https://caracoltv.brightspotcdn.com/dims4/default/ee39775/2147483647/strip/true/crop/1600x1066+0+0/resize/1600x1066!/quality/85/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fb2%2F15%2F1d9e6e5c41e687fbc9baa809a63c%2Fwhatsapp-image-2026-10-19-at-11-12-07-am-1.jpeg"
+          curl -sSL -A "Mozilla/5.0" -o fotos/fechas.jpg "https://caracoltv.brightspotcdn.com/dims4/default/20ae0ad/2147483647/strip/true/crop/1080x1350+0+0/resize/1080x1350!/quality/85/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fb5%2F90%2Fbe6ed8fd47448dc5691ddec5c2dc%2Fwhatsapp-image-2026-10-19-at-11-12-08-am.jpeg"
+          curl -sSL -A "Mozilla/5.0" -o fotos/renta-joven.jpg "https://caracoltv.brightspotcdn.com/dims4/default/580ced5/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/quality/85/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fc9%2F89%2F070f253c466c860e0b6eaae97c0d%2Frentajoven.jpg"
+          curl -sSL -A "Mozilla/5.0" -o fotos/giro.jpg "https://imagenes.portafolio.co/files/image_1200_600/files/fp/uploads/2025/07/25/6883c503db888.r_d.473-246-11719.jpeg"
+          curl -sSL -A "Mozilla/5.0" -o fotos/pieza.jpg "https://estaticos.elcolombiano.com/binrepository/1200x1499/0c0/0d0/none/11101/NPQL/pieza-quinta-rj_51879542_20261014133924.jpg"
+          file fotos/* ; ls -la fotos
+          git config user.name "Robot Vibras Positivas HM"
+          git config user.email "haroldco45@users.noreply.github.com"
+          git add fotos && git commit -m "Fotos reales para la app y el flyer" && git push
