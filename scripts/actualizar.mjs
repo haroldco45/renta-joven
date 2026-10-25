@@ -45,6 +45,20 @@ async function conFotos() {
   }));
 }
 
+// Bing Noticias trae la foto de cada noticia y el enlace directo al medio
+async function bing(q) {
+  const r = await fetch('https://www.bing.com/news/search?format=rss&cc=CO&setlang=es&q=' + encodeURIComponent(q), { headers: { 'User-Agent': 'Mozilla/5.0' } });
+  if (!r.ok) throw new Error('Bing ' + r.status);
+  const xml = await r.text();
+  return [...xml.matchAll(/<item>([\s\S]*?)<\/item>/g)].map(([, it]) => {
+    let url = tag(it, 'link');
+    try { const u = new URL(url).searchParams.get('url'); if (u) url = u; } catch {}
+    let imagen = tag(it, 'News:Image');
+    if (imagen) imagen = imagen.replace(/&amp;/g, '&') + (imagen.includes('?') ? '&w=400&h=300&c=7' : '');
+    return { titulo: tag(it, 'title'), url, fuente: tag(it, 'News:Source'), imagen, fecha: new Date(tag(it, 'pubDate')).toISOString() };
+  });
+}
+
 let previo = { noticias: [] };
 try { previo = JSON.parse(await readFile(ARCHIVO, 'utf8')); } catch {}
 
@@ -58,6 +72,17 @@ for (const q of BUSQUEDAS) {
       if (!vistos.has(k)) { vistos.set(k, n); nuevas++; }
     }
   } catch (e) { console.log('Aviso:', e.message); }
+}
+
+for (const q of ['"Renta Joven"', '"Renta Joven" pago', 'Renta Joven Prosperidad Social']) {
+  try {
+    for (const n of await bing(q)) {
+      if (!n.titulo || isNaN(Date.parse(n.fecha))) continue;
+      const k = clave(n.titulo);
+      if (vistos.has(k)) { const v = vistos.get(k); if (!v.imagen && n.imagen) v.imagen = n.imagen; }
+      else { vistos.set(k, n); nuevas++; }
+    }
+  } catch (e) { console.log('Aviso Bing:', e.message); }
 }
 
 try {
