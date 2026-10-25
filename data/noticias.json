@@ -1,11 +1,12 @@
 {
- "actualizado": "2026-10-25T12:25:02.471Z",
+ "actualizado": "2026-10-25T12:26:07.114Z",
  "noticias": [
   {
    "titulo": "Renta Joven entrega incentivos de hasta $600.000 a estudiantes en Colombia.",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTEZzbElpX0xXdXowazltQW1nMDVVSFV2NlRpQmtNRXdMd29hTmpqV1dYWXZXdzMtTS1ndmM5b1JJMGtQc1BvSHVyV1ZwQWFHUEd0VWhRMUNmaWUySFBOMkQ2ODhrRFFRc3N2Y2pZeWJwWWl4M0VxRFlNeGVhV1NrTWxPbXVQeVY1RGtwRG5sTGVVRVhaNVNCQWlXVDBidGRMV29BNS1uaXpSdw?oc=5",
    "fuente": "HSB Noticias",
-   "fecha": "2026-10-24T23:50:46.000Z"
+   "fecha": "2026-10-24T23:50:46.000Z",
+   "imagen": "http://www.bing.com/th?id=ONUT.je2ZWkwyQMryCqsHAvsPnQ&pid=News&w=400&h=300&c=7"
   },
   {
    "titulo": "¿Problemas para acceder al portal de Renta Joven? esta información es vital",
@@ -35,13 +36,21 @@
    "titulo": "Prosperidad Social inicia quinto ciclo de pagos de Renta Joven",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT21WSGU4MUtkR042SHNVSEhzb2FFeXM4bF9NaWxQaXo3NXdBVEg2YmdlcFdVUGJud0VDZ2V4Q2p3dVJnWTBRUUJRMU1VS210bWh6RnlJQUJ4ZUNON0xVUGIxZDJOa3E3NzNzc2tjYWF1VG9sQkZjckdNSGZSMV91ekxGVjFuWlNRSE9tTzlucnJxWUtyTUltamJJekUzbHBjejlv?oc=5",
    "fuente": "El Nuevo Siglo",
-   "fecha": "2026-10-23T16:43:23.000Z"
+   "fecha": "2026-10-23T16:43:23.000Z",
+   "imagen": "http://www.bing.com/th?id=ONUT.miSq_qw_hgIWgqS1Q70tCg&pid=News&w=400&h=300&c=7"
   },
   {
    "titulo": "Renta Joven: 5.147 estudiantes de Boyacá recibirán nueva transferencia económica",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSVdoaHBWMHF2aGhhT1VpV3VkTFJkRmMtTlYwYWFUVkUzRk15bXFVTjVfTkNmczBOZ2ZXRW9IZ3dnTTJYYl8wQnZTanYtN1VGWV9mQ3lkMUdDYWtOYXlKU2gtTjEwQ0xZUUNCZ0lteTkyVHgxb2puN3hqVTZrVHRRcUhqaDdoQzBBMEEwTW4wbVJpUTdsQW9RWjRKcDNrc1ZWT05QOUoyYmw5Zllh?oc=5",
    "fuente": "Boyacá 95.6 fm",
    "fecha": "2026-10-23T13:14:17.000Z"
+  },
+  {
+   "titulo": "Portal de Renta Joven: as&#237; pueden consultar y gestionar incentivos educativos los beneficiarios en Colombia",
+   "url": "https://www.pulzo.com/economia/portal-renta-joven-colombia-como-consultar-incentivos-y-pagos-educativos-en-linea-PP5338979A",
+   "fuente": "Pulzo",
+   "imagen": "http://www.bing.com/th?id=ONUT.E9MEaGvXTxiJ4yhk4wivlA&pid=News&w=400&h=300&c=7",
+   "fecha": "2026-10-23T10:32:00.000Z"
   },
   {
    "titulo": "Se inician pagos del programa Renta Joven en Cúcuta",
@@ -53,7 +62,8 @@
    "titulo": "Renta Joven en Barranquilla: pagos de hasta $600.000 se entregan hasta el 28 de octubre - Emisora Atlántico",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdXNSUm1kM1c0aXFzRTI0MlpPQTB1N2dfdl9sS3d3bVh6R19jbkZ1b2RZVHJYbzVqdVN2VE9MbDBtLUxXb091TzVrR29MR29oZmZ5S2Jhdk9RNmxtNnYzbEw2TkdPZ2FlWnFldUtEeml1aHVuRnVSOTFuNDJsU2RRSkw3b19QZFQ2cXFpci1JOTJYcHBYM3BtSU84WVZEcHVtSjdXUlB2cFktdW8yMy1JVElYRnVIU0hrU1BrdFdMYlVsUdIBygFBVV95cUxQMkFhSXpQVE1JSmlTbmJmZDNEYU51VHRhaHhRZWY4NGNYQnFhVzJzX3VWLVpBTkwxSjJsNUhIbGs0RVlnSEVLbUlXbk5EbDhUWEk2dVh5Q0lMdW5WWi0tLS1Bb2k3TndMeXFSNUlVckNORHNYakNhS0luZ0tVZG1UdGM1T3hQTlNQd3FKdGxOSHZ2ZTFDeDVaNmhMZG9jYVZqcXZObG1SOWRlelRGMzczdmZtRDFDd2dpdm81eFVsTTM3TUlwczgzZkh3?oc=5",
    "fuente": "Emisora Atlántico 1070 AM",
-   "fecha": "2026-10-22T23:45:00.000Z"
+   "fecha": "2026-10-22T23:45:00.000Z",
+   "imagen": "http://www.bing.com/th?id=ONUT.pRQ215Pm9IrHaVJq5GxjWg&pid=News&w=400&h=300&c=7"
   },
   {
    "titulo": "SuperGiros pagará hasta $600.000 a estas cédulas en octubre de 2026: revise el calendario",
@@ -71,7 +81,8 @@
    "titulo": "Prosperidad Social anuncia fechas y condiciones para el quinto ciclo de pagos de Renta Joven en Colombia en octubre de 2026",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcEFsRE5VZWR0NXc2X3ZpRUJ0SXdBWWF2Z1ZXR3RMeFI5MVduU2xQUVdvYUJZS3hLa2Ftams0Yk5YOXhYLTJHd21TNUxDZ3BoeWVfN1ZCMmVTMVBsWXdMX3NkQzZSeE13cjVHVDl4LUE3Mk9zQzBBRlBfYy1yeDFVaE1OZnB6RmEyaEJPazF2cjFpbGExY2ZZRDA3QldCRUttUkdaUlM2cldCQVpFSDN0ck1fbVdoSG9vQ2hRalR6SGVldkl5WVJIYdIBzgFBVV95cUxNVFB5ZG1Ham5FUmY4aTdXWGJOZ3JLTjFNVi1GTEdXbURyVTJvX2dBcVhjY250Vzd4QXNqTndCM2duaEVBSFV4bDdYdjFpVWhiRWo1VkVOVlFuaGpZUVpVaXVxRUdzclZtVXdTV3JXNXZwS0dEN3ZpeGVoenVnZzdMNVNBbER2UE0tLThQV2I1OW14WEp1dHA4b1FDX2d2Y2k3RHowSG42UERjVG5EOXRMSTBaZlJoV1QzcktCWnZmSy10XzBlTDNaRmZHQ1ZkUQ?oc=5",
    "fuente": "Pulzo",
-   "fecha": "2026-10-22T20:37:00.000Z"
+   "fecha": "2026-10-22T20:37:00.000Z",
+   "imagen": "http://www.bing.com/th?id=ONUT.EUQq9VmMKlfv6He1t9G8Sg&pid=News&w=400&h=300&c=7"
   },
   {
    "titulo": "Se inician pagos de Renta Joven",
@@ -97,6 +108,13 @@
    "fuente": "Portafolio",
    "fecha": "2026-10-22T13:00:00.000Z",
    "imagen": "https://imagenes.portafolio.co/files/image_1200_600/files/fp/uploads/2025/07/25/6883c503db888.r_d.473-246-11719.jpeg"
+  },
+  {
+   "titulo": "Ya empezaron los pagos de Renta Joven: c&#243;mo consultar si es beneficiario de hasta $600.000 en octubre",
+   "url": "https://www.msn.com/es-co/noticias/otras/ya-empezaron-los-pagos-de-renta-joven-c%C3%B3mo-consultar-si-es-beneficiario-de-hasta-600000-en-octubre/ar-AA2fRhL9",
+   "fuente": "Portafolio on MSN",
+   "imagen": "http://www.bing.com/th?id=ONUT.7KBXoLfUoV-eGpb5WiWqeA&pid=News&w=400&h=300&c=7",
+   "fecha": "2026-10-22T09:20:48.000Z"
   },
   {
    "titulo": "Fusagasugá: fuertes aguaceros obligaron movilización de Emserfusa y organismos de socorro",
@@ -141,6 +159,13 @@
    "fecha": "2026-10-21T14:43:32.000Z"
   },
   {
+   "titulo": "Renta Joven inicia los pagos con cambio en las entregas: habr&#225; pico y c&#233;dula para cobrar hasta $600.000",
+   "url": "https://www.msn.com/es-co/noticias/otras/renta-joven-inicia-los-pagos-con-cambio-en-las-entregas-habr%C3%A1-pico-y-c%C3%A9dula-para-cobrar-hasta-600000/ar-AA2fKBBs",
+   "fuente": "Alerta Bogot&#225; Colombia (Espa&#241;ol) on MSN",
+   "imagen": "",
+   "fecha": "2026-10-21T09:58:06.000Z"
+  },
+  {
    "titulo": "Renta Joven 2026: Fechas y pagos del quinto ciclo para 95.000 estudiantes",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbkpuWTIwLVo5RnJYSkw1VXVCT2dEVHZycGt0TjByaUFvTXdiZ0F2UkRfYmRhSWJfVF81X2kwVDc5MzhKRXB3dmI5U1FTQnllVm9XRElCZHRnb1Q2Uklxd2llRjNoTnZ1N0dBYlRnVklPcllUV0FzV3dIWEFiWDBTdjBKZE9UcVRqaklpTk5LY2htTjg1bjRWN1F4MlVNdG9mUllwRtIBpAFBVV95cUxQX0hFdTlZbk11V2tocW5XTWp5Y0lMSE5XbFN1bU16YWNxMTdGVHlmVjl2VTAzcV9MYmNiS1ZveDhlTzJiRW5uTGcxdjZ5ODFwOWNad25wbU5nbng4SWE0dEJxRHhGV2JyNkxmMjZmNFNHYV81YWpvcWFMSm1GT3ItQnR3Z3BrWjR4T2c2YlVfX1NCc1F5WGthRUlETmw2c2pOMHdpaA?oc=5",
    "fuente": "MARCA",
@@ -181,6 +206,13 @@
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORXFCekNid2pWeGlRRlowelZ1OHhOY2tyaS1HT2RZcnVUZGdwZnJrb1gzeTZ0ZUtpeE5zY2RmTkdRd005WW1NS2tta0lOQWFsekZZMVpMSDVGMjFlbllFWHdXVXdpT2d2RXBLcV9LRVNoNG5wV01xWUw0MVNqcXZCZ1FqQ24yMmFMUE85dkJRN3hlalZydzdPNnpkYkhmN2tvN2IzcDFZMGNjQTY2eG10WWtUZ0NPdWN0MlAtSGpJaldReTU2NGI0SWlaQ2NFNFNEMmFBeW95c25weE1S0gHiAUFVX3lxTE1nUGdVMm9zMEtpQkw4UXl6UkhBb3ByLUdWWXhLWGhNOHVFc1lTVnhFT1k0STJobEo0X05wOTJyT3RzS0JBUVI5Vl83d0p6eXVDYlRWVUZmN0tZTk5vcWJSdks2bWJYdkdXWjVDQWVCdHBDUzg4MThkYy1Da0RLdktiR0pKeHJGVVN0aVdXYjFuRC1IRk42elJWMGJKRDg0OXlWOWdnekJYeERoNExmeVpXbmE1OVlrR21EME5hYklvNExSTWlrX3ZLOFhBWFpUWUtLTE91aVJfc1BlZ0UwQWxBSUE?oc=5",
    "fuente": "Tropicana Colombia",
    "fecha": "2026-10-20T21:31:06.000Z"
+  },
+  {
+   "titulo": "Renta Joven: Prosperidad Social entregar&#225; quinta transferencia a 3.939 estudiantes del Atl&#225;ntico",
+   "url": "https://emisoraatlantico.com.co/local/renta-joven-prosperidad-social-entregara-quinta-transferencia-a-3-939-estudiantes-del-atlantico/",
+   "fuente": "Emisora Atl&#225;ntico",
+   "imagen": "http://www.bing.com/th?id=ONUT.3lvEM6503yjLoyLayIvklA&pid=News&w=400&h=300&c=7",
+   "fecha": "2026-10-20T20:49:00.000Z"
   },
   {
    "titulo": "Desde este miércoles, más de mil jóvenes del Magdalena Medio recibirán pagos de Renta Joven",
@@ -225,6 +257,13 @@
    "fecha": "2026-10-20T15:54:27.000Z"
   },
   {
+   "titulo": "Prosperidad Social entregar&#225; mas de $2.000 millones a j&#243;venes del Atl&#225;ntico",
+   "url": "https://www.elheraldo.co/atlantico/2026/10/20/prosperidad-social-entregara-mas-de-2000-millones-a-jovenes-del-atlantico/",
+   "fuente": "El Heraldo",
+   "imagen": "http://www.bing.com/th?id=ONUT.Co8AZjli2bCpcHw9SoSGUQ&pid=News&w=400&h=300&c=7",
+   "fecha": "2026-10-20T15:17:00.000Z"
+  },
+  {
    "titulo": "Prosperidad Social pagará Renta Joven de octubre: 4.658 estudiantes de Bogotá",
    "url": "https://www.minuto60.com/economia/prosperidad-social-pago-renta-joven-octubre-link-monto-consultar/17428",
    "fuente": "Minuto60",
@@ -262,10 +301,24 @@
    "imagen": "https://caracoltv.brightspotcdn.com/dims4/default/580ced5/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/format/webp/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fc9%2F89%2F070f253c466c860e0b6eaae97c0d%2Frentajoven.jpg"
   },
   {
+   "titulo": "Renta Joven: Prosperidad Social entrega quinta transferencia a m&#225;s de 3.000 estudiantes del Huila",
+   "url": "https://tsmnoticias.com/renta-joven-prosperidad-social-entrega-quinta-transferencia-a-mas-de-3-000-estudiantes-del-huila/",
+   "fuente": "TSMNoticias.com",
+   "imagen": "http://www.bing.com/th?id=ONUT.mizuxt4QH4HjklcLGYHSwA&pid=News&w=400&h=300&c=7",
+   "fecha": "2026-10-20T10:27:00.000Z"
+  },
+  {
    "titulo": "Más de 5.400 jóvenes en el Cesar recibirán subsidio de Renta Joven a partir del 21 de octubre",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTdEZJQXNUMUVhbFBrbXd0b2NaN3NHb2h4VHd4Mm1zN3BONEhyT2Vpd0g2aVJjcmZ6UzVEd0Q0U2JsR3B3MDQ2NVRVeTQtWHFqeHQ2WWplNUtfU2ZTZ2haU2hMSW9xbV80b1VWY2VZRkFMWDRqdEREN0lB?oc=5",
    "fuente": "Radio Guatapurí",
    "fecha": "2026-10-20T09:29:25.000Z"
+  },
+  {
+   "titulo": "Pago de Renta Joven en Bol&#237;var: fechas del quinto ciclo, cronograma por c&#233;dula y montos",
+   "url": "https://lakalle.bluradio.com/noticias/economia/renta-joven-en-bolivar-fecha-de-pago-del-subsidio-segun-tu-cedula-esta-semana-so35",
+   "fuente": "La Kalle 96.9 FM",
+   "imagen": "http://www.bing.com/th?id=ONUT.V3HvcIaFnNVLtRv4I2yOEQ&pid=News&w=400&h=300&c=7",
+   "fecha": "2026-10-20T07:31:00.000Z"
   },
   {
    "titulo": "Prosperidad Social entrega quinta transferencia a 5.493 estudiantes de Cesar",
@@ -349,7 +402,8 @@
    "titulo": "Confirman pago de Renta Joven de hasta $600.000 para beneficiarios del subsidio en Bogotá",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN3NJZ3RCNUM4eG1uQWd6Q1NSMzAxckhPTzF4eEFUWVhfMnZRaF9PNEJKV2trZDl3d05uSndFM1ZXblNoWFdhMWFVSl9IcmpoZWQwVlJVcnBrVzU1RUxOdFJ0eDFhRmdPSGhaLUU3TDRMdGVwNjhsNS1pNWlCU1NtVmRDVDVjUFZCWmxJMVFUcklHMzBGallDejRR?oc=5",
    "fuente": "Ayudas 10",
-   "fecha": "2026-10-19T17:43:20.000Z"
+   "fecha": "2026-10-19T17:43:20.000Z",
+   "imagen": "http://www.bing.com/th?id=ONUT.TG--lMwfAa7DRvcsO0Jo2Q&pid=News&w=400&h=300&c=7"
   },
   {
    "titulo": "Prosperidad Social lanza último aviso: beneficiarios podrán reclamar $600.000 a partir de esta fecha",
@@ -440,48 +494,6 @@
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMmRiMTVrVHZtNFV6aVJIX2JXVjJuUVpuUU93a1JTVzAzMG9MR2ZOY25nQlg3UWxTZGIwMnhtRUlmY0wzZ1hMajBISWhtSklzNEl2R0Z3ak90NFlsU09hdF9RQVRLdE5PbUM2VVhYaFY0cmdoQTZSSkd6WjNZbjlnR2JqTUNOdWh4RzFGMmN3QUg3cUVOTndVNzZEMA?oc=5",
    "fuente": "Wintor ABC",
    "fecha": "2026-10-19T07:00:00.000Z"
-  },
-  {
-   "titulo": "Renta Joven 2026: hasta el 22 de octubre para gestionar novedades del ciclo 6",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3a2dYX3hvMnh1ZHhuLUVPVmlkdlAyMUQ1b3pULUJjYXVPQS15QWZJWFIycWlraGZHYkE0YUg0TnkzeWQtVUxJOGFtTVRibjNzN0htLWMtSWJva1IxNXRvYlhPUnQxQ2ZVclU2THNuZHdBOFNwcnc?oc=5",
-   "fuente": "Wintor ABC",
-   "fecha": "2026-10-19T07:00:00.000Z"
-  },
-  {
-   "titulo": "Quinta transferencia de ´Renta Joven´ para 891 estudiantes de Casanare",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMjJlTUJGZl81UmFLTDJxdVh1cHhWMHBkT2ZXNzhwcWNvWHlkTWNFbXJYUjhtS0tXSTFYbElrY0Rxc3poeTlxamNnTmNiZ2RiRExlZ1lVaEFMd2pTbHYwZ2ZsMUhNb0hBcXB1bXRVajNKNUtPNFNnQXpBZl9iazYzTllkRi14VEdfWF8yOEZ1VTNvUWJsckFtM2htZVJ2bkRiTV8ybEJDSXJXZjgzRktSbGxHczBvU3pId00wVQ?oc=5",
-   "fuente": "PRENSA LIBRE CASANARE",
-   "fecha": "2026-10-19T05:07:08.000Z"
-  },
-  {
-   "titulo": "Renta Joven 2026: Prosperidad Social confirmó nuevas fechas de pago y valor del subsidio",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSlQzemw2Q3FLQ29KaTUwUlo3eHdJY1EtY0NGWE0zSVlnY29wSGxQVTVLOWM5VTdVeTJDWDIwRVZadlZjV3lzLXlLeVR1bHhYVVcwSDBLRklWb2M5ZlRoeW9ycFhUUWdZa2xjcVM2RUpVSTRpN2VOODAtbS1UV3pJeWFHd01nM1NGU1hzOVpkQVNlZVFDVjNzcmxSYzZjWDVBT2R4aDBqNW82OWEwQ2dKRGpKVTNpeDNrMGo2bjA4NDBFYjJN?oc=5",
-   "fuente": "Newsroom RCN Radio",
-   "fecha": "2026-10-18T22:28:46.000Z"
-  },
-  {
-   "titulo": "Agéndese: esta semana inician los pagos de la quinta transferencia de Renta Joven",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYTB3VDlSeUJNbzdZQ3hKdjk4UUVqaEMxNEFlb21qN2N2X1VrWENuWUlZRmxGcVFkQ09xVURxTElQclhIal9udHdXSzVaZk90ODQtcXdoZV82RHNTQURfU04zaTMtcXhBeTM2WnhBcFpZUmh1SHAzWXVtRjFYRTN5X1lpRWc5LUlNNURRNjBMUXFtNzYybDZNbURBM0dNeV9iNGgxYnZ5YXEza0pZRkRZUEhOb18yZkYxZFd4VkQ0UF9uQ3Fudm8ydXZUdmN1UdIB0wFBVV95cUxQRDVVaG05ZER3X05rYUstMjQyNWRjSEJFOFBvNDFJSjAya3V3N3o4X1AtbnN2dkdEY05RajlGak1BbUk3ZGVER0NyZ2w1TEhPb3FIeDJUaldrZFlFTkNiSmtvUkFKSWJqb044RXhVTmk1b0F3Q0FDNmh2WV9GOWJMXzBqd1YzTjNtTGRqNUp5SC1yYmNac0JUS0FudHV2dElvRnE2djRTMF9SaEZHeFVPWlFoWjlkamtDQVpOdkFwX3FiRjhiUDRBQjZpZ1diMGVGZ1dV?oc=5",
-   "fuente": "Portafolio.co",
-   "fecha": "2026-10-18T15:55:44.000Z"
-  },
-  {
-   "titulo": "Renta Joven pagará su quinta transferencia entre el 21 y el 28 de octubre",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbmJzTUxGVHBrN08waTlzWmJJZUFlWUlad2FrdDdhemtMbG9ucHRkdlJLOTZ4MkpwRWJsbmRsdDBuOVJhZ0NxSWNvTzV1VTlacm5KdGpiN2h4ZkhINVR3Q1E5MDJkMGZzSGpRbFlxUERkVVhTNDBqMWtZaDdndDlmWVhPeEFja1UxOVFYSHQtb2NLMWE3dXpjamxBLUVvRVF6R01RV0RTdw?oc=5",
-   "fuente": "Opanoticias",
-   "fecha": "2026-10-18T15:24:56.000Z"
-  },
-  {
-   "titulo": "Último aviso de Prosperidad Social: Miles de cédulas podrán perder hasta $ 600.000 por incumplir con los requisitos de este subsidio",
-   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQbDEyZWVPdEpTbkZ2eHFaU2xOb3BSN0xjOU52bnB2S3RPY3VOeVZPcEVSdmFwdUZKeEhnc0NheFIxVG1zbUlXQVpPUHBZNjJ1WG90NFRLUjFWTHB6a0pCRmpSRmtyOHNOUVZ1TDhpWEdYVnpLc0JvemZtRkswM0JmNmhoek9WRi02eVY4UVhvOHozTnBScks5M01uR1JZTjBxY3VlZ08weVhwYlVJX01nblpWTVg1Nmh6cnlDOVZnalh4Qk14UGpGTGJEcWNnZWstOVZudDRTMVlkSzJsMFpHUFJmaE9QS0xJanFwV2owQXJ4STJzTTlaSG1rQkpNSXlmbTJvUjh1ak8tSXBu?oc=5",
-   "fuente": "RED+ Noticias",
-   "fecha": "2026-10-17T22:14:17.000Z"
-  },
-  {
-   "titulo": "Prosperidad Social: Entrega de la quinta transferencia de Re",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSEFUZDIwa0pIVXdjQ2tuakNvNnVhYjJHa1pGUkw5dkxzclZTSVU0NjVFdkVRQ1ZWSW1zSUdiemZKMGZRWkE1NFJBbGlrZTc3REJGYWFuaDg0SEljSkVEYmJfdE5fQzdORngzRHp1OVF5dklJVFdZQU5rNjduWk44MXk2azRISUN2c0k1SGxhcGIzcXZvTmFoNFM2cEJueENINzlGaC1lOGM0WmxmcTRkQWhCOGdzVkN3cEs2bk51Z1BuWUJ0?oc=5",
-   "fuente": "Diario del Cauca",
-   "fecha": "2026-10-17T21:38:58.000Z"
   }
  ]
 }
