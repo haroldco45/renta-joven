@@ -1,0 +1,15 @@
+{
+  "name": "Renta Joven al Día",
+  "short_name": "Renta Joven",
+  "description": "Fechas, montos y dónde cobrar Renta Joven. Por Vibras Positivas HM.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#081438",
+  "theme_color": "#0b1a4a",
+  "lang": "es-CO",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
