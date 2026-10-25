@@ -1,4 +1,4 @@
-const CACHE = 'renta-joven-v2';
+const CACHE = 'renta-joven-v3';
 const BASE = ['./', 'index.html', 'manifest.json', 'icon-192.png', 'icon-512.png'];
 self.addEventListener('install', e => { e.waitUntil(caches.open(CACHE).then(c => c.addAll(BASE))); self.skipWaiting(); });
 self.addEventListener('activate', e => {

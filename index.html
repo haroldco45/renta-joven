@@ -523,7 +523,7 @@ function tarjeta(n,visto){
   if(n.vivo)tags+='<span class="tag vivo">EN VIVO</span>';
   if(dn===d)tags+='<span class="tag hoy">HOY</span>';
   if(visto&&Date.parse(n.fecha)>visto)tags+='<span class="tag nueva">NUEVA</span>';
-  var foto=n.imagen?'<img class="mini" src="'+esc(n.imagen)+'" alt="" loading="lazy" onerror="this.parentNode.classList.remove(\'con-foto\');this.remove()">':'';
+  var im=n.imagen?String(n.imagen).replace(/^http:/,"https:"):"";var foto=im?'<img class="mini" src="'+esc(im)+'" alt="" loading="lazy" onerror="this.parentNode.classList.remove(\'con-foto\');this.remove()">':'';
   return '<a class="nota'+(foto?' con-foto':'')+'" href="'+esc(n.url)+'" target="_blank" rel="noopener">'+foto+'<div><div class="meta">'+tags+'<span>'+esc(n.fuente||'')+'</span><span>· '+hora(n.fecha)+'</span></div><h3>'+esc(n.titulo)+'</h3></div></a>';
 }
 function pintaNoticias(){

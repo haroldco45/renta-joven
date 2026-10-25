@@ -54,7 +54,7 @@ async function bing(q) {
     let url = tag(it, 'link');
     try { const u = new URL(url).searchParams.get('url'); if (u) url = u; } catch {}
     let imagen = tag(it, 'News:Image');
-    if (imagen) imagen = imagen.replace(/&amp;/g, '&') + (imagen.includes('?') ? '&w=400&h=300&c=7' : '');
+    if (imagen) imagen = imagen.replace(/^http:/, 'https:').replace(/&amp;/g, '&') + (imagen.includes('?') ? '&w=400&h=300&c=7' : '');
     return { titulo: tag(it, 'title'), url, fuente: tag(it, 'News:Source'), imagen, fecha: new Date(tag(it, 'pubDate')).toISOString() };
   });
 }
