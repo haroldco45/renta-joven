@@ -1,6 +1,20 @@
 {
- "actualizado": "2026-11-13T10:27:45.953Z",
+ "actualizado": "2026-11-13T17:58:13.709Z",
  "noticias": [
+  {
+   "titulo": "Prosperidad Social: LINK para consultar si tienes subsidios pendientes en noviembre",
+   "url": "https://lakalle.bluradio.com/noticias/economia/prosperidad-social-link-para-consultar-si-tienes-subsidios-pendientes-en-noviembre-so35",
+   "fuente": "La Kalle 96.9 FM",
+   "imagen": "https://www.bing.com/th?id=ONUT.RKtWM56W2-BwrnuZdlf1uA&pid=News&w=400&h=300&c=7",
+   "fecha": "2026-11-13T06:23:00.000Z"
+  },
+  {
+   "titulo": "Prosperidad Social inicia el quinto ciclo de Renta Ciudadana y Compensaci&#243;n del IVA",
+   "url": "https://www.diariodelsur.com.co/noticias/prosperidad-social-inicia-el-quinto-ciclo-de-renta-ciudadana-y-compensacion-del-iva",
+   "fuente": "Diario del Sur",
+   "imagen": "",
+   "fecha": "2026-11-13T05:43:00.000Z"
+  },
   {
    "titulo": "&#191;C&#243;mo saber si tiene un subsidio? As&#237; puede consultar con su c&#233;dula en Prosperidad Social",
    "url": "https://www.noticiasrcn.com/economia/consultar-con-cedula-si-tiene-un-subsidio-en-colombia-1081311",
@@ -36,6 +50,18 @@
    "fecha": "2026-11-11T17:01:00.000Z"
   },
   {
+   "titulo": "En Bogotá, 11.759 hogares recibirán quinta entrega de Renta Ciudadana y Compensación del IVA",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOT1JSeGZodld3dDRFU3FhT3pyMmlYNmxyc3BaeFNPRk91MDZMTEd3Vm90RkVPRmR2Sjdzek1yQlBEM0JBYllwTDQxRVU5b3JTT3ptR0xnWWJoNTA4UzB3ZlpqUlZvR1dSODRPOUpaeUFJTXRTR1lVOU9QR2dEeThoVWk3TG5kb3VBM21tZjRBUE8xZlcxZFRUdzk2OGlZZnF1dmo2cEZBNkd1d2JmUjdyY3g1eHdXNlBuaXI2RHJYZGFZc2liSVk4WC1KYkdPY1E?oc=5",
+   "fuente": "Prosperidad Social",
+   "fecha": "2026-11-11T14:49:03.000Z"
+  },
+  {
+   "titulo": "En Valle del Cauca, 44.957 hogares recibirán quinta entrega de Renta Ciudadana y Compensación del IVA",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdHNkQWp6TlAtSzFiYVl0a1RoYXBLalVMQzduMzFtTHB0Wlc3YmNXbWMxWWpUZUhZTHhGOHBXT1BBelRXeFloZjEyMDRwekZLR0pqSkZCN1RfeVk3Z19pTkVKSmEyaEdJc0hxcVhsb0VTdnBlZFlKLTJFOC1jcEVBU1FCeXdDd3dsTWJVeGZWcDRlT0pqTUNCMGhXZFZIaFZXYkF5SVRvcmRQLWN6NVJUN3BiaGFKTVBybGxaMEdsTkJ3RDUxeGxCYS03VnZydG16Q1VGMXEzZ0Rrbk0?oc=5",
+   "fuente": "Prosperidad Social",
+   "fecha": "2026-11-11T14:48:28.000Z"
+  },
+  {
    "titulo": "Consulte si su c&#233;dula tiene subsidios: canales oficiales del Departamento de Prosperidad Social",
    "url": "https://caracol.com.co/2026/11/11/consulte-si-su-cedula-tiene-subsidios-canales-oficiales-del-departamento-de-prosperidad-social/",
    "fuente": "Caracol Radio",
@@ -68,6 +94,12 @@
    "fuente": "Minuto30",
    "imagen": "https://www.bing.com/th?id=ONUT.x7uXDMRa37MJzhzPPgyuCg&pid=News&w=400&h=300&c=7",
    "fecha": "2026-11-11T04:03:00.000Z"
+  },
+  {
+   "titulo": "Portal del Joven: cómo ingresar y consultar la liquidación de Renta Joven",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbGs5MWgyNVpkaFlIY2llSGlKYnBJQzJ6djUzMkNoVjVBdG9tdzNqOV9lQ3d4VU5fUUVhQ1VWdmE1ZFNxeEFBVGtiOHNXRXo4cjdpMkhYa1ByLUJIdWhkWTlDOGNhbFB4eGp2M2RGNmlMOGQ1WmVKLTRLZjFIVHJLSA?oc=5",
+   "fuente": "Wintor ABC",
+   "fecha": "2026-11-10T08:00:00.000Z"
   },
   {
    "titulo": "&#191;Es beneficiario de Renta Ciudadana? Link para consultar con su c&#233;dula",
@@ -480,36 +512,6 @@
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONlIyeGwzYkxkUTFxNFV2YjQxb2NLdkNIWFVPa3E0T2ozX3dhSHhBQm5TaENkSVRQelMwbnlZSk45cWZiaTd2ZWVYd2ZYdFJReWJ3XzB5LWJ4bGVrZFFJdThLeGRfMUdaTmFJaFpIZmhMWmZJcXQ0T2p0VEgxUURDM3R2TjgwVG91RjNmRW44YmV5Nm52TGg3d0FUMTZhZlBKNmdGXzdzc3JMNjNGQkV2TVBuajhaOU1Tc2JCR0dXMA?oc=5",
    "fuente": "Prosperidad Social",
    "fecha": "2026-10-28T04:35:55.000Z"
-  },
-  {
-   "titulo": "Colombia Mayor: en Santander, 125.934 beneficiarios recibirán la octava transferencia",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMktRbG1CM19PYmpQRzZyQ095WG82NTVjd1o0MlFuUDVUYXo1ZlFTUHRXeHpjSVhQbGdQakQwelAzYmFQbDdaTFZkMU5YNmtrZ1hwdGhQXzVhTzN4VV82am93UUxvVHhTOEdsRFFuY3ktel8tQW5SS2FnT0I4OG1FblVNYW43RkZlWlF2NndCdGRJRl9CbWF0VWlQcWUzalUwRUN0M1JMVXZTUW9XOE1faDF6TmVXY2Uway14aURXY0MyS3ZR?oc=5",
-   "fuente": "Prosperidad Social",
-   "fecha": "2026-10-28T04:17:55.000Z"
-  },
-  {
-   "titulo": "Colombia Mayor: en San Andrés, 1.553 beneficiarios recibirán la octava transferencia",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORnRBa2J2SERRcXlvVXRBaUZaR0pnV2R0ZkdUWDBBSlpRTTl0eGRBbGcyWkV3TXF6dW5Sek1TRkFqY1hKTU94VENqUDNoNC1YblhpcHAydEhBVTlXVTNzaTRNNmM4ZjdCVWcwTlBBLUNSYTV4N3c1NlFFRWFZRm5pem5UYmFiOERvR19zVkxOUkxDOEJneUptdGpBVzdVcnRoY2p3Vml2OTdmNENrRk1KemkxaHlaNm1qRUR3dDBKNmlmaWs?oc=5",
-   "fuente": "Prosperidad Social",
-   "fecha": "2026-10-28T04:05:16.000Z"
-  },
-  {
-   "titulo": "Colombia Mayor: en Caquetá, 32 mil beneficiarios recibirán la octava transferencia",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaVQ3XzlsOEJkQ2V4ZTcxUl9kdV9TcnBBT2JSMzN5bjJ3cWU0LW5nSmFwNE9KQVNtSXQwNzRKRFFLdENEdHNHcXNWWkxMM2F0NmRYNjNNMUtweE9DaGRGbzFlQk40bFhUNlVzMnY5U25IaGM4UmVQZ205aVB5X21xa3EwbU5Lc3VBa1FPbVlDNHhEcUM3dnhjbnRMOUVjQkdCNWJOOFVLdFp2MURVOWc0WU04VmRTX1A3N0xIUExIaEc?oc=5",
-   "fuente": "Prosperidad Social",
-   "fecha": "2026-10-28T03:39:45.000Z"
-  },
-  {
-   "titulo": "Colombia Mayor: en Vaupés, 1.583 beneficiarios recibirán la octava transferencia",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTHloNG10NTRVUktnelZGLTU0NWtWZnVLb3ZvOWdyekhZVlk5dWhnZjdrVUllS1NrcHF3akkwMkplZjdhMjJmeWRDaTNYT25PMTEzcGVXcUh3em1hWGVIQU5BSGkxT29qSU4wSWloMU9TeDFlUjZreXdyODZmcThwZnpRQ0JqSE42d2wzdk42b3lTZ0duVU5oY2xtS2ppZ2lYejctOE5aTlFPQlBDVnFNVWMzVkt4Nzh2MjJOcURn?oc=5",
-   "fuente": "Prosperidad Social",
-   "fecha": "2026-10-28T03:01:35.000Z"
-  },
-  {
-   "titulo": "Colombia Mayor: en Magdalena Medio, 41.999 beneficiarios recibirán la octava transferencia",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNFhaV0wzNjVYZExyNlhucXpVcWx0OFVZUVFlWldEQ2NTbGNTOHpqTnF1T3NPWmJiVWRnNkFFQzZGTDFTNGphNkszQi1jUTBmNjBKaFRaem5uRXJDMjRLRFlRT0pfRVdsTThSczdaWXBLdEtKVWh1Y3A5YzFaSkpheUc1MExzMVh6STAyMzRrYTVSNjlpXzJWVUdySzJRbnREN3VWVUIyVDAxeURQU2oxbUgydnhzeGN1QmYyYjNuQ1EyemdxaUxyYU1XRQ?oc=5",
-   "fuente": "Prosperidad Social",
-   "fecha": "2026-10-28T02:43:36.000Z"
   }
  ]
 }
