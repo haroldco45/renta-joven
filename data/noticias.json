@@ -1,6 +1,24 @@
 {
- "actualizado": "2026-11-17T09:40:48.816Z",
+ "actualizado": "2026-11-17T18:55:13.883Z",
  "noticias": [
+  {
+   "titulo": "Colombia Joven 2026-2030: qué propone el Gobierno y qué pasaría con Renta Joven",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqZjdnRDFOTWRLTHpVZlFVbm1vS3NKeklNVG5pTTRHT3gwWGVvSGRKdlpjdFlBUGNNdDdaWkgyRnNJZVRCNjdDT2hrT3F4UmpyTi1iN1k5Yk02dXRDRlJxdExRRXJhUmFfTXJwWnowNXd4RS1ORUZj?oc=5",
+   "fuente": "Wintor ABC",
+   "fecha": "2026-11-17T14:29:46.000Z"
+  },
+  {
+   "titulo": "Renta Ciudadana 2026: cómo consultar si es beneficiario con su cédula",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYXB5NVZVcC0yRlNwZGxMS1ozaVNJMWNTSUxmOFlnQUxPYUV2YWNBMFRFd2lOUWRXUnphSFpIV1hUZFVCVHZCV254ckplaTV1bnp5ZktUQnRyYmZHbWg1UXE3T09ibnB3WGl5QnRTQWRHRTY3b2c4V19JbzJENDZzaGUwRlEyTDlTMldpU2hB?oc=5",
+   "fuente": "Wintor ABC",
+   "fecha": "2026-11-14T08:00:00.000Z"
+  },
+  {
+   "titulo": "SuperGIROS: link oficial actualizado para consultar subsidios con cédula",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HRzFVQ0FUNXYxOWpUalFScVpXby1WX05ZTU10MFpTczVOUnZreTJVMzF0Um9Sa29TcmN6RllDWDhGNHpNbkZkVTdEakdTZDlCaHdLWnJ1TzVmZF9EUkxNR1ozRGhQZFZh?oc=5",
+   "fuente": "Wintor ABC",
+   "fecha": "2026-11-13T08:00:00.000Z"
+  },
   {
    "titulo": "Prosperidad Social: LINK para consultar si tienes subsidios pendientes en noviembre",
    "url": "https://lakalle.bluradio.com/noticias/economia/prosperidad-social-link-para-consultar-si-tienes-subsidios-pendientes-en-noviembre-so35",
@@ -20,6 +38,18 @@
    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUjhOam82TmN3eEFrS0JRLTdFQ0FoRWRfVlZMTlJaSDV0M0c5akpHVTdWZy1vcjl4bnFKMXFHQnFBdVZydVRDVnBmUHJqQkN6ZzZhWDVmMnVRTndxa1dZRHIwUXZ6Z3JfQmJvcHczRXRCVnZVdHRmcEM0OXhiMF8zRVVKVHA1U0VNcGNoTUVDVUZFU1RlWVJjQ1A4bXBWaXRnbmNjWTVrNmlMU2VJbXJ0WVplLVU3VkJ4b0J0MmxvS0hlQTNCQVdJV3BLaHY0VGViX25uZGNVb0NBdHFXTG9fX0pWRWRCekFwRWN6cGhMVTlkUHplbTFTbA?oc=5",
    "fuente": "Prosperidad Social",
    "fecha": "2026-11-12T17:38:35.000Z"
+  },
+  {
+   "titulo": "SuperGIROS y SuRed: cómo consultar el giro de Renta Ciudadana e IVA",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnTk1yUWFDU3AwXzBRS0NudWZYUDlmOGp4dGlDcEVsWXM4S3lwWXBtZ0FWZy1qb0tYSWhOWDE4a3V5bnI0MkFDanN0bG00dnhKcVNxeE9wa2VCRDRDVkEtRg?oc=5",
+   "fuente": "Wintor ABC",
+   "fecha": "2026-11-12T08:00:00.000Z"
+  },
+  {
+   "titulo": "Nuevo link de subsidios de SuperGIROS: ¿qué pasó con Ya llegó mi giro?",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lcFdDUDBVWUtNYm83UFE4U0VsZjIzRUtLb0hFYjdzbkhzVG5pYVFNeWp3c3h3WkpmZW4yQkRXNEFDSkgxSEpnMm5fN3ZZOHdseldkbjlBWnF1N01p?oc=5",
+   "fuente": "Wintor ABC",
+   "fecha": "2026-11-12T08:00:00.000Z"
   },
   {
    "titulo": "&#191;C&#243;mo saber si tiene un subsidio? As&#237; puede consultar con su c&#233;dula en Prosperidad Social",
@@ -86,6 +116,12 @@
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORGtXQ2xkYmtkSnI5aEJxVFBlZ2lpOWpIVVBxSThvODNOSWpJbGo5U05kaHB0U0VNUzFpOU5YR25iYWRHWE5mZWNiVUdERzlsQ09LTElWRDA3TmNvd0V0YjE0Y2F0Z3lLeFROYWt1LW1yazFCcTQ5d2JIc21OdjBuWEdrLWpkUk55blNlNms1aTRtVjJwMzBJUzFLRUpaMEpjeHFsSWpZbG02UXhiNURjR1RfZ2hBNGJHNTVoSGNubzdjSFE?oc=5",
    "fuente": "Prosperidad Social",
    "fecha": "2026-11-11T12:00:00.000Z"
+  },
+  {
+   "titulo": "Renta Ciudadana e IVA: quinto pago para 780.390 hogares",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY09MUTVQT2hFejg2RTNJa1EtcnVWMXZGU1lYM2IzWkxlN0l2VU5Ib3VVckVqMTZFRGpMQkdNWDRvWVRyRUFNcm5vWjRTRTFLNzd3MUNfTHZoSkZvR0NLVHJpLUNKVW9RMWg5a3EzemI2RENaOFYzMnRlUS13UkxPQ0JjS0hVN2c?oc=5",
+   "fuente": "Wintor ABC",
+   "fecha": "2026-11-11T08:00:00.000Z"
   },
   {
    "titulo": "Prosperidad Social confirma fechas para el pago de Compensaci&#243;n del IVA en noviembre",
@@ -475,43 +511,6 @@
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQN3NyUkkxX3YwdzNuSnMwemRYMEVqZ3lFY0VPVXBfM0pJWnU4UnB0MkVKUUNYNV9PZ0RJZHJmU2V2NnlheHNCckNjVDFQdmIyZ3FHei12Ty1RREt5Ym1QSDBQek05aVhOeGd2NHBJcTVBU0tqSUdIdWRuZVpTNHF2TUFTcVlZN2QtSEU4UzFmUWtuYzBIQXowbHlwalhqNWFKQ0ZWRWNWcXpjbVNnVHE4bkxqandOd1I1RTVBRGh3?oc=5",
    "fuente": "Prosperidad Social",
    "fecha": "2026-10-28T12:45:28.000Z"
-  },
-  {
-   "titulo": "Colombia Mayor: en Vichada, 3.648 beneficiarios recibirán la octava transferencia",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWml4dWV2WGp0d1BWZ003SFFjdktTTzUtbmw5WFk3T2NDSG52cEJXaHNKdXZoLVE2dm1UYVJNTUxkWFgxelBnOWJRaWF4dFF5aE51TTRKMkJpQkQ0UXplc1dHUUdEdVg3ZHo1VmlhOVNRRHA0ODg0N2FMNGhIc19jWXpqVUx4QmhsZUUyOUhJRmdySERJVVE1aS1TbXRpcnQ1S25vbEZxMUlycWZoY0tCaDNaZUhlSTJLWTBTVVdXcw?oc=5",
-   "fuente": "Prosperidad Social",
-   "fecha": "2026-10-28T12:33:59.000Z"
-  },
-  {
-   "titulo": "Renta Joven beneficia a cerca de 96.000 estudiantes en Colombia.",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPS2dncnZKa2wzX3lGeEpvMXZwdnVwc2plMFZUUkYyTzlpd2tHYVNpMmk3OVpuTTlWUFlPOXUtTW1qQnY5YXZOTllBUEJmVGFNTUZIS0FnUmR0RVU4bXN4V0RFREpVWnc0VGRKVVRKMDJFQmluc3NkcmVjaHFoTDJBSzRRclAxS2xQZGRCcTU5a1ZpZkhQQ1F0TzNGYnk?oc=5",
-   "fuente": "HSB Noticias",
-   "fecha": "2026-10-28T12:30:07.000Z"
-  },
-  {
-   "titulo": "&#161;Hay m&#225;s tiempo para retirar! Ampl&#237;an el plazo de retiro de Renta Joven del ciclo 5 de 2026",
-   "url": "https://www.tropicanafm.com/2026/hay-mas-tiempo-para-retirar-amplian-el-plazo-de-retiro-de-renta-joven-del-ciclo-5-de-2026-479678.html",
-   "fuente": "Tropicana Colombia",
-   "imagen": "https://www.bing.com/th?id=ONUT.-fZnvPy3FaxRXImcAoFnCg&pid=News&w=400&h=300&c=7",
-   "fecha": "2026-10-28T12:14:00.000Z"
-  },
-  {
-   "titulo": "Colombia Mayor: en Valle del Cauca, 217.312 beneficiarios recibirán la octava transferencia",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSzN6QUg3d1FFV2t2bEl5Q2ZrYXJiaUQ1Ri1ualhFTXdtRFBQdkx3Q0ttSHJIaFlOTUtKeDdEX2lTNldXZ3F2QXh2eU41Uy10RHhXSkZfcGZrQmRQNTAxbzUxc3Z5djZJSlM2YUp6eXI4OTlEci1HaFM2SkdEdEpOWjdSdDBvdjFxVVRiLXU2b09PY2xBVTk0dWpISDdjMnowZ0d1U1BBVWxpclBMSDZxODd4YmFxLVNYZGk4VmVzVmxxRklWaERJMzFYejA?oc=5",
-   "fuente": "Prosperidad Social",
-   "fecha": "2026-10-28T05:21:16.000Z"
-  },
-  {
-   "titulo": "Colombia Mayor: en Urabá, 36 mil beneficiarios recibirán la octava transferencia",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSlRES09UbnlyZWplUkxqZmZLUjVCOFk1ODg4Tk1icnNhS0FaemhiRnJrMDZZTm9PZFlaUnVWYnJ4VjhhRkRtTnM3MWhISWpieGh6YTU3RlpBRmZ6Z2NMOENKNHNJamlfdnR3Qk9DeWZTelZFM2FyT2FFcmJjR2RMcVBzVGs4RDFnUnNLOXB3VjRmaHBDWjVwc056WXlZYVVEenp3TmtOYW4ySFRIcXpGTFR2UnhScExENERvS25n?oc=5",
-   "fuente": "Prosperidad Social",
-   "fecha": "2026-10-28T05:08:10.000Z"
-  },
-  {
-   "titulo": "Colombia Mayor: en Tolima, 142.004 beneficiarios recibirán la octava transferencia",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdFpFY3ZzdDlDOUdKYWc2TVlTbEVGTi0xQnRxNDlGNUhlanBCRFBmNDVaUzY0R2tHbGdLR2hYaHNyWlBlQml1Wm1GMThLQUdhOHZBSjdTTTZ0YmNUZy1DM3V1MlVYWkV6a29DTk9XYWRScDBmdXJab2dJUzBodVFXazhZeF93aTBJaS1CODVUbk5XalRGZ09MZ0lfSVlOcjlEeUc3aG4xUGx2UWZEbXY3ajRucHI2MlQtUDJtRVFISEM?oc=5",
-   "fuente": "Prosperidad Social",
-   "fecha": "2026-10-28T04:52:35.000Z"
   }
  ]
 }
